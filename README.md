@@ -14,13 +14,13 @@
 - Open a new VSCode Window, a Get Started page should show up
 - Click on “Clone Git Repository”
 - Select “Clone from GitHub”
-- Type in “YourGithubUsername/Lecture-2” and clone the repository
+- Type in “_YourGithubUsername_/Lecture-2” and clone the repository
 
 ### Project Setup
 
 - Open the repository in the VSCode window
 - Open a new VSCode terminal window (Terminal > New Terminal or drag from bottom of screen)
-- Install yarn: sudo npm install -g yarn
+- Install yarn: `sudo npm install -g yarn`
 - Type `yarn install` or just `yarn`
 
 ## Running the Project
