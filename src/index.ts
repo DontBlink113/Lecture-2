@@ -1,8 +1,7 @@
 import { ask } from './ask';
-import { hello } from './hello';
 
 async function main() {
-  hello();
+  console.log('Hello world from TypeScript!');
   await ask();
 }
 
